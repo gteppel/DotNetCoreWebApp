@@ -22,8 +22,9 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: true
+    arguments: '-c Release -r linux-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true --output $(Build.ArtifactStagingDirectory)'
 
 - task: PublishPipelineArtifact@1
   inputs:
-    targetPath: '$(Pipeline.Workspace)'
+    targetPath: '$(Build.ArtifactStagingDirectory)'
     publishLocation: 'pipeline'
