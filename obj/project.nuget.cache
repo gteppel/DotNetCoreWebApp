@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SHza0IB1MAbqw6iDvkWw+VVn8+37WJ6YDhwhl1pnorBjMWVSouOF88UMNE/IAzDE4JhrGgHHy60XH9RzlQ3Omg==",
+  "dgSpecHash": "V3vVylrqkDv53XeKmVQvJ30YnpO4mQUK8EslOnotYppLxvxXVkDRtZFzKHggCw2cHad/UELDtO2SGOjDyxE9Dg==",
   "success": true,
   "projectFilePath": "C:\\Users\\geppel\\source\\repos\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\geppel\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.9\\microsoft.netcore.app.runtime.linux-x64.5.0.9.nupkg.sha512",
-    "C:\\Users\\geppel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.9\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.9.nupkg.sha512",
-    "C:\\Users\\geppel\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.9\\microsoft.netcore.app.host.linux-x64.5.0.9.nupkg.sha512"
+    "C:\\Users\\geppel\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.18\\microsoft.netcore.app.host.linux-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
 }

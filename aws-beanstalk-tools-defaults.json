@@ -2,7 +2,7 @@
 {
     "region" : "us-east-1",
     "configuration" : "Debug",
-    "framework"     : "net5.0",
+    "framework"     : "netcoreapp3.1",
     "self-contained" : false,
     "application"    : "WebApp-VisualStudio",
     "environment"    : "Webappvisualstudio-env",
